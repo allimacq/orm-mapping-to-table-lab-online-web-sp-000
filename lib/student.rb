@@ -28,5 +28,6 @@ class Student
   end
   
   def save
+    INSERT INTO students
 
 end
